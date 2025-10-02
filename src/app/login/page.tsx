@@ -12,7 +12,7 @@ export default function LoginPage() {
         </p>
           <button
               onClick={signInWithGoogle}
-              className="px-10 py-4 text-text rounded-xl font-semibold bg-primary hover:bg-red-600 transition-all duration-300 shadow-md"
+              className="px-6 py-4 text-text rounded-xl font-semibold bg-primary hover:bg-red-600 transition-all duration-300 shadow-md"
             >
               Sign in with Google
           </button>
